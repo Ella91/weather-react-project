@@ -7,7 +7,7 @@ export default function App() {
   return (
   <div className="App">
     <div className="container">
-      <Weather />
+      <Weather defaultCity="Vienna"/>
         <footer>
           This site was coded by Ella and is {" "}
           <a 
