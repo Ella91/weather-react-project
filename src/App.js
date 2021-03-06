@@ -10,8 +10,8 @@ export default function App() {
       <Weather defaultCity="Vienna"/>
         <footer>
           This site was coded by Ella and is {" "}
-          <a 
-          href="https://github.com/Ella91/weather-react-project" target="_blank">
+          <a
+          href="https://github.com/Ella91/weather-react-project" target="_blank" rel="noreferrer">
           open-sourced on GitHub</a>
         </footer> 
       </div>
